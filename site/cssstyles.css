@@ -1,9 +1,6 @@
-<style>
-
-/********** Base styles **********/
-/** {
-  box-sizing: border-box;*/
-
+{
+  box-sizing: border-box;
+}
 h1 {
   font-family: Brushstroke, fantasy;
 	color: #000000;
@@ -220,4 +217,3 @@ body{
   }
 }
 
-</style>
