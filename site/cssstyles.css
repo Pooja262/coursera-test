@@ -19,7 +19,7 @@ body{
   margin-bottom: 0px;
   margin-top:0px;
   margin-right:0px;
-  border-style: solid;
+  border:1px solid;
   border-color:black;
   border-top: none;
   border-right: none;
@@ -37,7 +37,7 @@ body{
   font-size: 120%;
   margin-bottom: 0px;
   margin-top: 0px;
-  border-style: solid;
+  border:1px solid;
   border-top: none;
   border-right: none;
   border-color:black;
@@ -51,7 +51,7 @@ body{
   font-size: 120%;
   margin-bottom: 0px;
   margin-top: 0px;
-  border-style: solid;
+  border:1px solid;
   border-top: none;
   border-right: none;
   border-color:black;
